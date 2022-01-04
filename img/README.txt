@@ -1,0 +1,1 @@
+Images from https://github.com/rgruener/othello, license unclear.

@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "9ae270c700980d3477bbbd5ee7dcb1c070b6f07fe961605f9d63a3a64fdf7732"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "game2dboard": {
+            "hashes": [
+                "sha256:8d1e8297d5b40311a2a6b6e4675256fcd13f55ff38176dadb82f41705ab64b12",
+                "sha256:e68173570cf567499a7e74dff580636ffce2856a00f8077bf17f981a1ea924a9"
+            ],
+            "index": "pypi",
+            "version": "==0.9.1"
+        }
+    },
+    "develop": {}
+}
